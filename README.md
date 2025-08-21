@@ -22,7 +22,8 @@ I built the **user authentication system** (login, signup, logout) that ensures 
      ```bash
      git clone
   2. Navigate into the project folder
-     ```cd loan_app_02
+     ```bash
+     cd loan_app_02
 
   3. Create and activate a virtual enviroment:
      ```bash
