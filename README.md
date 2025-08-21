@@ -20,7 +20,7 @@ I built the **user authentication system** (login, signup, logout) that ensures 
   ## Installtion
   1. Clone the repository:
      ```bash
-     git clone
+     git clone https://github.com/Azu001-Cyber/loanapp-user-auth.git
   2. Navigate into the project folder
      ```bash
      cd loan_app_02
